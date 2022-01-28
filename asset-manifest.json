@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-projects/static/css/main.6756a837.chunk.css",
+    "main.js": "/react-projects/static/js/main.aa77eacd.chunk.js",
+    "main.js.map": "/react-projects/static/js/main.aa77eacd.chunk.js.map",
+    "runtime-main.js": "/react-projects/static/js/runtime-main.98e8b5ff.js",
+    "runtime-main.js.map": "/react-projects/static/js/runtime-main.98e8b5ff.js.map",
+    "static/css/2.a95be28f.chunk.css": "/react-projects/static/css/2.a95be28f.chunk.css",
+    "static/js/2.4a83d551.chunk.js": "/react-projects/static/js/2.4a83d551.chunk.js",
+    "static/js/2.4a83d551.chunk.js.map": "/react-projects/static/js/2.4a83d551.chunk.js.map",
+    "index.html": "/react-projects/index.html",
+    "static/css/2.a95be28f.chunk.css.map": "/react-projects/static/css/2.a95be28f.chunk.css.map",
+    "static/css/main.6756a837.chunk.css.map": "/react-projects/static/css/main.6756a837.chunk.css.map",
+    "static/js/2.4a83d551.chunk.js.LICENSE.txt": "/react-projects/static/js/2.4a83d551.chunk.js.LICENSE.txt",
+    "static/media/tumba.cebda18b.png": "/react-projects/static/media/tumba.cebda18b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98e8b5ff.js",
+    "static/css/2.a95be28f.chunk.css",
+    "static/js/2.4a83d551.chunk.js",
+    "static/css/main.6756a837.chunk.css",
+    "static/js/main.aa77eacd.chunk.js"
+  ]
+}
